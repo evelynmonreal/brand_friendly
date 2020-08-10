@@ -1,0 +1,39 @@
+.fondo1{
+    background-image: url(../img/cat.jpg);
+    background-size: cover;
+}
+
+
+.fondo2{
+    background-image: url(../img/aaron.jpg);
+    background-size: cover;
+}
+
+.fondo3{
+    background-image: url(../img/sofi.jpeg);
+    background-size: cover;
+}
+
+.fondo4{
+    background-image: url(../img/a.jpeg);
+    background-size: cover;
+}
+
+.fondo5{
+    background-image: url(../img/rafa.jpeg);
+    background-size: cover;
+}
+
+.fondo6{
+    padding: 130px;
+}
+
+.fondo1, .fondo2, .fondo3, .fondo4, .fondo5, .fondo6{
+    height: 300px;
+    text-align: center;
+    color: peru;
+}
+
+img{
+    height: 250px;
+}
